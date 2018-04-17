@@ -1,0 +1,12 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node sum.test.js",
+    "test": "node_modules/.bin/jest"
+  },
+  "engines": {
+    "node": "^4.6.1"
+  },
+}
